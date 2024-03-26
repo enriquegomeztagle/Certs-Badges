@@ -20,21 +20,27 @@ As a leader in deploying innovative artificial intelligence and machine learning
 
 <table align="center">
   <tr>
-    <td align="center"><img src="/images/app-development-with-swift-associate.png" alt="App Development with Swift Associate" width="150"/><br>App Development with Swift Associate</td>
+    <td align="center"><img src="/images/app-development-with-swift-associate.png" alt="App Development with Swift Associate" width="150"/><br><a href="https://www.credly.com/badges/dcdd9edc-6597-4833-94fb-68c4c2f4ddaa/public_url">App Development with Swift Associate</a></td>
     <!-- Repeat <td> blocks for additional badges, up to 4 per row -->
   </tr>
 </table>
+
 
 ### Google Developer Skills Boost Badges
 
 <table align="center">
   <tr>
-    <td align="center"><img src="/images/ai-priniciples.png" alt="Applying AI Principles with Google Cloud" width="150"/><br>Applying AI Principles with Google Cloud</td>
-    <td align="center"><img src="/images/genaifund.png" alt="Generative AI Fundamentals" width="150"/><br>Generative AI Fundamentals</td>
-    <td align="center"><img src="/images/responsgenai.png" alt="Introduction to Responsible AI" width="150"/><br>Introduction to Responsible AI</td>
-    <td align="center"><img src="/images/introllms.png" alt="Introduction to Large Language Models" width="150"/><br>Introduction to Large Language Models</td>
+    <td align="center"><img src="/images/ai-priniciples.png" alt="Applying AI Principles with Google Cloud" width="150"/><br><a href="https://www.cloudskillsboost.google/public_profiles/ab5a0a14-8f33-42ce-be80-2620aee93c16/badges/7876257">Responsible AI: Applying Principles</a></td>
+    <td align="center"><img src="/images/genaifund.png" alt="Generative AI Fundamentals" width="150"/><br><a href="https://www.cloudskillsboost.google/public_profiles/ab5a0a14-8f33-42ce-be80-2620aee93c16/badges/7876200">Generative AI Fundamentals</a></td>
+    <td align="center"><img src="/images/responsgenai.png" alt="Introduction to Responsible AI" width="150"/><br><a href="https://www.cloudskillsboost.google/public_profiles/ab5a0a14-8f33-42ce-be80-2620aee93c16/badges/7876177">Introduction to Responsible AI</a></td>
+    <td align="center"><img src="/images/introllms.png" alt="Introduction to Large Language Models" width="150"/><br><a href="https://www.cloudskillsboost.google/public_profiles/ab5a0a14-8f33-42ce-be80-2620aee93c16/badges/7876167">Introduction to Large Language Models</a></td>
   </tr>
-  <!-- Repeat <tr>...</tr> blocks for additional rows as necessary -->
+  <tr>
+    <td align="center"><img src="/images/introgenai.png" alt="Introduction to Generative AI" width="150"/><br><a href="https://www.cloudskillsboost.google/public_profiles/ab5a0a14-8f33-42ce-be80-2620aee93c16/badges/6816543">Introduction to Generative AI</a></td>
+    
+  </tr>
+  
+  <!-- Add more rows as necessary -->
 </table>
 
 ### AWS Skill Builder Badges
