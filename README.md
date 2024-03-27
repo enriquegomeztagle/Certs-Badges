@@ -44,7 +44,7 @@ As a leader in deploying innovative artificial intelligence and machine learning
   <!-- Add more rows as necessary -->
 </table>
 
-### AWS Skill Builder Badges
+### AWS Skill Builder Certificate
 
 <table>
   <tr>
