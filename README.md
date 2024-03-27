@@ -61,6 +61,22 @@ As a leader in deploying innovative artificial intelligence and machine learning
     <td><img src="/images/Introduction to Generative AI - Art of the Possible 1 of 1.png" alt="Introduction to Generative AI - Art of the Possible" width="400"/></td>
     <td><img src="/images/Know Your Solutions Architect 1 of 1.png" alt="Know Your Solutions Architect" width="400"/></td>
   </tr>
+
+  <tr>
+    <td><img src="/images/Planning a Generative AI Project 1 of 1.png" alt="Planning a Generative AI Project 1 of 1.png" width="400"/></td>
+    <td><img src="/images/AWS PartnerCast - Fundamentos de Contenedores y Servicios de AWS - Technica 1 of 1.png" alt="Fundamentos de Contenedores y Servicios de AWS" width="400"/></td>
+  </tr>
+  
+  <tr>
+    <td><img src="images/Administración de facturación y costos de AWS (Español LATAM)  AWS Billing and Cost Management (LATAM Spanish) 1 of 1.png" alt="Administración de facturación y costos de AWS" width="400"/></td>
+    <td><img src="/images/Generative AI Learning Plan - Business Professionals (Partner) 1 of 1.png" alt="Generative AI Learning Plan - Business Professionals" width="400"/></td>
+  </tr>
+
+  <!--  <tr>
+    <td><img src="" alt="" width="400"/></td>
+    <td><img src="" alt="" width="400"/></td>
+  </tr>  -->
+  
 </table>
 
  <!-- https://www.credly.com/organizations/amazon-web-services/collections -->
