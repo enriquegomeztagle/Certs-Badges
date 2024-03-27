@@ -73,8 +73,7 @@ As a leader in deploying innovative artificial intelligence and machine learning
   </tr>
 
   <tr>
-    <td><img src="/images/AWS PartnerCast - FastTrack SAA Series AWS Solutions Architect Associate (SAA) - Amazon SQS - Amazon SNS (video 9) - Technical.pdf" alt="FastTrack SAA Series AWS Solutions Architect Associate (SAA) - Amazon SQS - Amazon SNS" width="400"/></td>
-    <td><img src="" alt="" width="400"/></td>
+    <td><img src="images/AWS PartnerCast - FastTrack SAA Series AWS Solutions Architect Associate (SAA) - Amazon SQS - Amazon SNS (video 9) - Technical 1 of 1.png" alt="FastTrack SAA Series AWS Solutions Architect Associate (SAA) - Amazon SQS - Amazon SNS" width="400"/></td>
   </tr>
 
   <!--  <tr>
