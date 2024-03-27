@@ -21,7 +21,7 @@ As a leader in deploying innovative artificial intelligence and machine learning
 <table align="center">
   <tr>
     <td align="center"><img src="/images/app-development-with-swift-associate.png" alt="App Development with Swift Associate" width="150"/><br><a href="https://www.credly.com/badges/dcdd9edc-6597-4833-94fb-68c4c2f4ddaa/public_url">App Development with Swift Associate</a></td>
-    <td align="center"><img src="/images/app-development-with-swift-associate.png" alt="AWS Partner: Generative AI Essentials (Business)" width="150"/><br><a href="https://www.credly.com/badges/52eba041-4add-4a9f-b817-fcb54d364a1f/public_url">AWS Partner: Generative AI Essentials (Business)</a></td>
+    <td align="center"><img src="/images/aws-partner-generative-ai-essentials-business.png" alt="AWS Partner: Generative AI Essentials (Business)" width="150"/><br><a href="https://www.credly.com/badges/52eba041-4add-4a9f-b817-fcb54d364a1f/public_url">AWS Partner: Generative AI Essentials (Business)</a></td>
     <!-- Repeat <td> blocks for additional badges, up to 4 per row -->
   </tr>
 </table>
