@@ -74,6 +74,11 @@ As a leader in deploying innovative artificial intelligence and machine learning
 
   <tr>
     <td><img src="images/AWS PartnerCast - FastTrack SAA Series AWS Solutions Architect Associate (SAA) - Amazon SQS - Amazon SNS (video 9) - Technical 1 of 1.png" alt="FastTrack SAA Series AWS Solutions Architect Associate (SAA) - Amazon SQS - Amazon SNS" width="400"/></td>
+    <td><img src="images/AWS PartnerCast - Viernes de GenAI en AWS reInvent 2023 Recap - Technical 1 of 1.png" alt="AWS reInvent 2023" width="400"/></td>
+  </tr>
+
+  <tr>
+    <td><img src="images/Introducción a Amazon Kinesis Analytics (Español LATAM)  Introduction to Amazon Kinesis Analytics (LATAM Spanish) 1 of 1.png" alt="Introduction to Amazon Kinesis Analytics" width="400"/></td>
   </tr>
 
   <!--  <tr>
