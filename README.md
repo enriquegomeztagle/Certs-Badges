@@ -78,7 +78,8 @@ As a leader in deploying innovative artificial intelligence and machine learning
   </tr>
 
   <tr>
-    <td><img src="images/Introducción a Amazon Kinesis Analytics (Español LATAM)  Introduction to Amazon Kinesis Analytics (LATAM Spanish) 1 of 1.png" alt="Introduction to Amazon Kinesis Analytics" width="400"/></td>
+    <td><img src="images/Introducción a Amazon Kinesis Analytics (Español LATAM)  Introduction to Amazon Kinesis Analytics (LATAM Spanish) 1 of 1.png" alt="Introduction to Amazon Kinesis Analytics" width="400"/</td>
+    <td><img src="images/AWS PartnerCast - Aprovecha el Acelerador de Designaciones AWS (ADA) - Technical (Español LATAM) 1 of 1.png" alt="Aprovecha el Acelerador de Designaciones AWS" width="400"/></td>
   </tr>
 
   <!--  <tr>
