@@ -44,7 +44,7 @@ As a leader in deploying innovative artificial intelligence and machine learning
   <!-- Add more rows as necessary -->
 </table>
 
-### AWS Skill Builder Certificate
+### AWS Skill Builder Certificates
 
 <table>
   <tr>
@@ -82,6 +82,19 @@ As a leader in deploying innovative artificial intelligence and machine learning
     <td><img src="images/AWS PartnerCast - Aprovecha el Acelerador de Designaciones AWS (ADA) - Technical (Español LATAM) 1 of 1.png" alt="Aprovecha el Acelerador de Designaciones AWS" width="400"/></td>
   </tr>
 
+  <tr>
+    <td><img src="images/Foundations of Prompt Engineering.jpg" alt="Foundations of Prompt Engineering" width="400"/></td>
+    <td><img src="images/Containers on AWS-Amazon ECS.jpg" alt="Containers on AWS" width="400"/></td>
+  </tr>
+
+  <tr>
+    <td><img src="images/Intro to Amazon Aurora.jpg" alt="Intro to Aurora" width="400"/></td>
+    <td><img src="images/Intro to Amazon RDS.jpg" alt="Intro to RDS" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/Building Generative AI Applications Using Amazon Bedrock.jpg" alt="Generative AI Learning Plan for Developers" width="400"/></td>
+    <td><img src="images/Generative AI Learning Plan for Developers.jpg" alt="Building Generative AI Applications Using Amazon Bedrock" width="400"/></td>
+  </tr> 
   <!--  <tr>
     <td><img src="" alt="" width="400"/></td>
     <td><img src="" alt="" width="400"/></td>
