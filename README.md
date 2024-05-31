@@ -28,7 +28,7 @@ As a leader in deploying innovative artificial intelligence and machine learning
 
 
 ### Google Developer Skills Boost Badges
-
+<!-- <td align="center"><img src="" alt="" width="150"/><br><a href=""></a></td> -->
 <table align="center">
   <tr>
     <td align="center"><img src="/images/ai-priniciples.png" alt="Applying AI Principles with Google Cloud" width="150"/><br><a href="https://www.cloudskillsboost.google/public_profiles/ab5a0a14-8f33-42ce-be80-2620aee93c16/badges/7876257">Responsible AI: Applying Principles</a></td>
@@ -38,7 +38,8 @@ As a leader in deploying innovative artificial intelligence and machine learning
   </tr>
   <tr>
     <td align="center"><img src="/images/introgenai.png" alt="Introduction to Generative AI" width="150"/><br><a href="https://www.cloudskillsboost.google/public_profiles/ab5a0a14-8f33-42ce-be80-2620aee93c16/badges/6816543">Introduction to Generative AI</a></td>
-    
+    <td align="center"><img src="/images/gemini4workspace.png" alt="Introduction to Gemini for Google Workspace" width="150"/><br><a href="https://www.cloudskillsboost.google/public_profiles/ab5a0a14-8f33-42ce-be80-2620aee93c16/badges/9263117"></a>Introduction to Gemini for Google Workspace</td>
+    <td align="center"><img src="/images/gemini4gmail.png" alt="Gemini in Gmail" width="150"/><br><a href="">https://www.cloudskillsboost.google/public_profiles/ab5a0a14-8f33-42ce-be80-2620aee93c16/badges/9263403</a>Gemini in Gmail</td>
   </tr>
   
   <!-- Add more rows as necessary -->
