@@ -46,6 +46,7 @@ As a leader in deploying innovative artificial intelligence and machine learning
     <td align="center"><img src="/images/gemini4slides.png" alt="Gemini in G Slides" width="150"/><br><a href="https://www.cloudskillsboost.google/public_profiles/ab5a0a14-8f33-42ce-be80-2620aee93c16/badges/9326238">Gemini in Google Slides</a></td>
     <td align="center"><img src="/images/gemini4sheets.png" alt="Gemini in G Sheets" width="150"/><br><a href="https://www.cloudskillsboost.google/public_profiles/ab5a0a14-8f33-42ce-be80-2620aee93c16/badges/9326241">Gemini in Google Sheets</a></td>
     <td align="center"><img src="/images/gemini4meet.png" alt="Gemini in G Meet" width="150"/><br><a href="https://www.cloudskillsboost.google/public_profiles/ab5a0a14-8f33-42ce-be80-2620aee93c16/badges/9326282">Gemini in Google Meet</a></td>
+    <td align="center"><img src="images/attmech.png" alt="Attention Mechanism" width="150"/><br><a href="https://www.cloudskillsboost.google/public_profiles/ab5a0a14-8f33-42ce-be80-2620aee93c16/badges/9326515">Attention Mechanism</a></td> 
   </tr>
   
   <!-- Add more rows as necessary -->
