@@ -40,6 +40,11 @@ As a leader in deploying innovative artificial intelligence and machine learning
     <td align="center"><img src="/images/introgenai.png" alt="Introduction to Generative AI" width="150"/><br><a href="https://www.cloudskillsboost.google/public_profiles/ab5a0a14-8f33-42ce-be80-2620aee93c16/badges/6816543">Introduction to Generative AI</a></td>
     <td align="center"><img src="/images/gemini4workspace.png" alt="Introduction to Gemini for Google Workspace" width="150"/><br><a href="https://www.cloudskillsboost.google/public_profiles/ab5a0a14-8f33-42ce-be80-2620aee93c16/badges/9263117">Introduction to Gemini for Google Workspace</a></td>
     <td align="center"><img src="/images/gemini4gmail.png" alt="Gemini in Gmail" width="150"/><br><a href="https://www.cloudskillsboost.google/public_profiles/ab5a0a14-8f33-42ce-be80-2620aee93c16/badges/9263403">Gemini in Gmail</a></td>
+    <td align="center"><img src="/images/gemini4docs.png" alt="Gemini in G Docs" width="150"/><br><a href="https://www.cloudskillsboost.google/public_profiles/ab5a0a14-8f33-42ce-be80-2620aee93c16/badges/9326198">Gemini in Google Docs</a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="/images/gemini4slides.png" alt="Gemini in G Slides" width="150"/><br><a href="https://www.cloudskillsboost.google/public_profiles/ab5a0a14-8f33-42ce-be80-2620aee93c16/badges/9326238">Gemini in Google Slides</a></td>
+    <td align="center"><img src="/images/gemini4sheets.png" alt="Gemini in G Sheets" width="150"/><br><a href="https://www.cloudskillsboost.google/public_profiles/ab5a0a14-8f33-42ce-be80-2620aee93c16/badges/9326241">Gemini in Google Sheets</a></td>
   </tr>
   
   <!-- Add more rows as necessary -->
