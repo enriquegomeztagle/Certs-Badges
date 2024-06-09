@@ -3,7 +3,8 @@
 ### Hello 👋, I'm Enrique Gómez Tagle
 
 <h4 align="center">
-AWS Cloud AI & Data Lead - iOS Lab's Software Architect - App Development with Swift Associate (by Apple Inc.) - CEO at @kikinacademy - Data Intelligence &  Cybersecurity UP MX
+AWS Cloud AI & Data Lead - iOS Lab's Software Architect - App Development with Swift Associate (by Apple Inc.) - CEO at @kikinacademy 
+  Data Intelligence &  Cybersecurity UP MX
 </h4>
 
 ## About Me
