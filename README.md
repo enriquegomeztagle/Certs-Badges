@@ -28,6 +28,15 @@ As a leader in deploying innovative artificial intelligence and machine learning
   </tr>
 </table>
 
+### Oracle Cloud Infraestructure Certifications
+<!-- <td align="center"><img src="" alt="" width="150"/><br><a href=""></a></td> -->
+<table align="center">
+  <tr>
+    <td align="center"><img src="/images/oci-genai-cert.jpg" alt="Oracle Cloud Infraestructure Generative AI" width="400"/><br><a href="">Oracle Cloud Infraestructure Generative AI</a</td>
+    
+  </tr>
+</table>
+
 
 ### Google Developer Skills Boost Badges
 <!-- <td align="center"><img src="" alt="" width="150"/><br><a href=""></a></td> -->
