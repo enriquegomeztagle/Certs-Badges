@@ -3,7 +3,7 @@
 ### Hello 👋, I'm Enrique Gómez Tagle
 
 <h4 align="center">
-AWS Cloud AI & Data Lead - iOS Lab's Software Architect - App Development with Swift Associate (by Apple Inc.) - CEO at @kikinacademy 
+AWS Cloud Data & AI Engineer - iOS Lab's Software Architect - App Development with Swift Associate (by Apple Inc.) - CEO at @kikinacademy 
   Data Intelligence &  Cybersecurity UP MX
 </h4>
 
@@ -21,22 +21,19 @@ As a leader in deploying innovative artificial intelligence and machine learning
 
 <table align="center">
   <tr>
+    <td align="center"><img src="images/AWS AI Practitioner Badge.png" alt="AWS Certified AI Practitioner" width="150"/><br><a href="https://www.credly.com/badges/387a6c6b-81a2-477d-b345-0a452e911d83/public_url">AWS Certified AI Practitioner</a></td>
+    <td align="center"><img src="images/AWS Certified Machine Learning.png" alt="AWS Certified Machine Learning Engineer Associate" width="150"/><br><a href="https://www.credly.com/badges/02182267-cc65-44c9-ab2a-1bff6e907da3/public_url">AWS Certified Machine Learning Engineer Associate</a></td>
+   </td>
+  <td align="center"><img src="/images/aws-partner-generative-ai-essentials-business.png" alt="AWS Partner: Generative AI Essentials (Business)" width="150"/><br><a href="https://www.credly.com/badges/52eba041-4add-4a9f-b817-fcb54d364a1f/public_url">AWS Partner: Generative AI Essentials (Business)</a></td>
+    <!-- Repeat <td> blocks for additional badges, up to 4 per row -->
+  </tr>
+
+  <tr>
     <td align="center"><img src="/images/app-development-with-swift-associate.png" alt="App Development with Swift Associate" width="150"/><br><a href="https://www.credly.com/badges/dcdd9edc-6597-4833-94fb-68c4c2f4ddaa/public_url">App Development with Swift Associate</a></td>
-    <td align="center"><img src="/images/aws-partner-generative-ai-essentials-business.png" alt="AWS Partner: Generative AI Essentials (Business)" width="150"/><br><a href="https://www.credly.com/badges/52eba041-4add-4a9f-b817-fcb54d364a1f/public_url">AWS Partner: Generative AI Essentials (Business)</a></td>
     <td align="center"><img src="/images/oci-genai-badge.jpg" alt="Oracle Cloud Infraestructure Generative AI" height="150"/><br><a href="">Oracle Cloud Infraestructure Generative AI</a></td>
     <!-- Repeat <td> blocks for additional badges, up to 4 per row -->
   </tr>
 </table>
-
-### Oracle Cloud Infraestructure Certifications
-<!-- <td align="center"><img src="" alt="" width="150"/><br><a href=""></a></td> -->
-<table align="center">
-  <tr>
-    <td align="center"><img src="/images/oci-genai-cert.jpg" alt="Oracle Cloud Infraestructure Generative AI" width="400"/><br><a href="">Oracle Cloud Infraestructure Generative AI</a</td>
-    
-  </tr>
-</table>
-
 
 ### Google Developer Skills Boost Badges
 <!-- <td align="center"><img src="" alt="" width="150"/><br><a href=""></a></td> -->
@@ -61,6 +58,15 @@ As a leader in deploying innovative artificial intelligence and machine learning
   </tr>
   
   <!-- Add more rows as necessary -->
+</table>
+
+### Oracle Cloud Infraestructure Certifications
+<!-- <td align="center"><img src="" alt="" width="150"/><br><a href=""></a></td> -->
+<table align="center">
+  <tr>
+    <td align="center"><img src="/images/oci-genai-cert.jpg" alt="Oracle Cloud Infraestructure Generative AI" width="400"/><br><a href="">Oracle Cloud Infraestructure Generative AI</a</td>
+    
+  </tr>
 </table>
 
 ### AWS Skill Builder Certificates
@@ -119,6 +125,17 @@ As a leader in deploying innovative artificial intelligence and machine learning
     <td><img src="" alt="" width="400"/></td>
   </tr>  -->
   
+</table>
+
+### AWS Certifications
+<table align="center">
+  <tr>
+    <td align="center"><img src="images/AWS AI Practitioner Badge.png" alt="AWS Certified AI Practitioner" width="150"/><br><a href="https://www.credly.com/badges/387a6c6b-81a2-477d-b345-0a452e911d83/public_url">AWS Certified AI Practitioner</a></td>
+    <td align="center"><img src="images/AWS Certified Machine Learning.png" alt="AWS Certified Machine Learning Engineer Associate" width="150"/><br><a href="https://www.credly.com/badges/02182267-cc65-44c9-ab2a-1bff6e907da3/public_url">AWS Certified Machine Learning Engineer Associate</a></td>
+   </td>
+  <td align="center"><img src="/images/aws-partner-generative-ai-essentials-business.png" alt="AWS Partner: Generative AI Essentials (Business)" width="150"/><br><a href="https://www.credly.com/badges/52eba041-4add-4a9f-b817-fcb54d364a1f/public_url">AWS Partner: Generative AI Essentials (Business)</a></td>
+    <!-- Repeat <td> blocks for additional badges, up to 4 per row -->
+  </tr>
 </table>
 
  <!-- https://www.credly.com/organizations/amazon-web-services/collections -->
