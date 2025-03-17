@@ -30,7 +30,10 @@ As a leader in deploying innovative artificial intelligence and machine learning
 
   <tr>
     <td align="center"><img src="/images/app-development-with-swift-associate.png" alt="App Development with Swift Associate" width="150"/><br><a href="https://www.credly.com/badges/dcdd9edc-6597-4833-94fb-68c4c2f4ddaa/public_url">App Development with Swift Associate</a></td>
-    <td align="center"><img src="/images/oci-genai-badge.jpg" alt="Oracle Cloud Infraestructure Generative AI" height="150"/><br><a href="">Oracle Cloud Infraestructure Generative AI</a></td>
+    <td align="center"><img src="/images/oci-genai-badge.jpg" alt="Oracle Cloud Infraestructure Generative AI" height="150"/><br><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=CC542E6F0F1DFC9AAF569146174B9C1F4C01D29450CB5CDAD503201809447636">Oracle Cloud Infraestructure Generative AI</a></td>
+     <td align="center"><img src="images/OracleAIVectorSearchProfessional-Badge.jpg" alt="Oracle AI Vector Search Professional" height="150"/><br><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D5F7B21CA87E78CB682645626F0B664E2016EF732F58E60326BA2C908E34F6CA">Oracle AI Vector Search Professional
+
+</a></td>
     <!-- Repeat <td> blocks for additional badges, up to 4 per row -->
   </tr>
 </table>
@@ -64,8 +67,8 @@ As a leader in deploying innovative artificial intelligence and machine learning
 <!-- <td align="center"><img src="" alt="" width="150"/><br><a href=""></a></td> -->
 <table align="center">
   <tr>
-    <td align="center"><img src="/images/oci-genai-cert.jpg" alt="Oracle Cloud Infraestructure Generative AI" width="400"/><br><a href="">Oracle Cloud Infraestructure Generative AI</a</td>
-    
+    <td align="center"><img src="/images/oci-genai-cert.jpg" alt="Oracle Cloud Infraestructure Generative AI" width="400"/><br><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=CC542E6F0F1DFC9AAF569146174B9C1F4C01D29450CB5CDAD503201809447636">Oracle Cloud Infraestructure Generative AI</a</td>
+    <td align="center"><img src="images/OracleAIVectorSearch-eCertificate.png" alt="Oracle AI Vector Search Professional" width="400"/><br><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D5F7B21CA87E78CB682645626F0B664E2016EF732F58E60326BA2C908E34F6CA">Oracle AI Vector Search Professional</a</td>
   </tr>
 </table>
 
